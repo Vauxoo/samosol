@@ -1,0 +1,12 @@
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:Vauxoo/sh-tools.git
+	branch = 15.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:Vauxoo/costarica.git
+	branch = 15.0
+[submodule "samosol"]
+	path = samosol
+	url = git@git.vauxoo.com:vauxoo/samosol.git
+	branch = 15.0
