@@ -10,3 +10,7 @@
 	path = samosol
 	url = git@git.vauxoo.com:vauxoo/samosol.git
 	branch = 15.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:Vauxoo/server-ux.git
+	branch = 15.0
