@@ -14,3 +14,7 @@
 	path = server-ux
 	url = git@github.com:Vauxoo/server-ux.git
 	branch = 15.0
+[submodule "brand"]
+	path = brand
+	url = git@github.com:Vauxoo/brand.git
+	branch = 15.0
