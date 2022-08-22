@@ -1,1 +1,1 @@
-# Samosol
+# Samosol.
