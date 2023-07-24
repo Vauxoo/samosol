@@ -18,3 +18,7 @@
 	path = brand
 	url = git@github.com:Vauxoo/brand.git
 	branch = 15.0
+[submodule "account-reconcile-partial"]
+	path = account-reconcile-partial
+	url = git@git.vauxoo.com:vauxoo/account-reconcile-partial.git
+	branch = 15.0
