@@ -1,24 +1,16 @@
-[submodule "sh-tools"]
-	path = sh-tools
-	url = git@git.vauxoo.com:Vauxoo/sh-tools.git
-	branch = 15.0
 [submodule "costarica"]
 	path = costarica
 	url = git@git.vauxoo.com:Vauxoo/costarica.git
-	branch = 15.0
+	branch = 18.0
 [submodule "samosol"]
 	path = samosol
 	url = git@git.vauxoo.com:vauxoo/samosol.git
-	branch = 15.0
+	branch = 18.0
 [submodule "server-ux"]
 	path = server-ux
 	url = git@github.com:Vauxoo/server-ux.git
-	branch = 15.0
+	branch = 18.0
 [submodule "brand"]
 	path = brand
 	url = git@github.com:Vauxoo/brand.git
-	branch = 15.0
-[submodule "account-reconcile-partial"]
-	path = account-reconcile-partial
-	url = git@git.vauxoo.com:vauxoo/account-reconcile-partial.git
-	branch = 15.0
+	branch = 18.0
